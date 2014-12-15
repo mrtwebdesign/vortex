@@ -102,7 +102,7 @@
 
 	<?php if ( $categories ) : ?>
 		<div class="ai1ec-categories">
-			<div class="ai1ec-label ai1ec-hidden-narrow-phone" title="<?php _e( 'Categories', AI1EC_PLUGIN_NAME ); ?>">
+			<div class="ai1ec-label ai1ec-hidden-narrow-phone" title="<?php echo 'Locations'; ?>">
 				<i class="icon-folder-open icon-large"></i>
 			</div>
 			<div class="ai1ec-label ai1ec-visible-narrow-phone">

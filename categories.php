@@ -7,7 +7,7 @@
 			title="<?php _e( 'Clear category filter', AI1EC_PLUGIN_NAME ); ?>">
 			<i class="icon-remove-sign"></i>
 		</span>
-		<?php _e( 'Categories', AI1EC_PLUGIN_NAME ); ?>
+		<?php echo 'Locations'; ?>
 		<span class="caret"></span>
 	</a>
 	<div class="dropdown-menu">
